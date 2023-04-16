@@ -1,6 +1,6 @@
 # A Concrete Model for the Quantum Permutation Group on 4 Points
 
-This repository implements algorithms which provide evidence that the following magic unitary defines a faithful model of quantum permutations group $S_4^+$. For further details, see TODO.
+This repository implements algorithms which provide evidence that the following magic unitary defines a faithful model of quantum permutation group $S_4^+$. For further details, see TODO.
 
 $$\tiny\begin{pmatrix}
 p\otimes p\otimes p &
@@ -42,6 +42,10 @@ q\otimes p\otimes (1-q)\\
 +q\otimes (1-q)\otimes p &
 +q\otimes q\otimes q\\
 \end{pmatrix}$$
+
+<br/>
+
+### Usage
 
 To run the scripts, [GAP4](https://www.gap-system.org/index.html) with [GBNP](https://www.gap-system.org/Packages/gbnp.html) and [SageMath](https://www.sagemath.org/) are required.
 
