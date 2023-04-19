@@ -1,6 +1,6 @@
 # A Concrete Model for the Quantum Permutation Group on 4 Points
 
-This repository implements algorithms which provide evidence that the following magic unitary defines a faithful model of quantum permutation group $S_4^+$. For further details, see TODO.
+This repository implements algorithms which provide evidence that the following magic unitary defines a faithful model of quantum permutation group $S_4^+$. For further details, see [arXiv:2304.09124](http://arxiv.org/abs/2304.09124).
 
 $$\tiny\begin{pmatrix}
 p\otimes p\otimes p &
